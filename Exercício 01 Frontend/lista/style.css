@@ -1,0 +1,29 @@
+/* INICIO */
+.topo h1 {
+ padding-top: 5px;
+}
+
+.topo h2 {
+ padding-top: 15px;    
+}
+
+/* MEIO */
+
+.meio h2 {
+ padding-top: 20px;
+}
+
+/* FINAL */
+
+.final h2 {
+ padding-top: 20px;
+}
+
+.final ul {
+ padding-top: 10px;    
+}
+
+footer {
+ padding-top: 50px;
+ font-style: italic;    
+}
